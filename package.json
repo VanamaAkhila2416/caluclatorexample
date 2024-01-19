@@ -1,0 +1,17 @@
+{
+    "name":"caluclator516",
+    "version":"1.1.0",
+    "main":"localmodule",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/VanamaAkhila2416/caluclatorexample"
+    },
+    "keywords":[
+        "calc","caluclator","caluclatorex"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+
+}
